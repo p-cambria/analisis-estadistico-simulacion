@@ -37,8 +37,5 @@ El nivel de riesgo bajo fue el que más aportó al estadístico de la prueba, po
 - [`analisis.R`](analisis.R): datos, prueba estadística y gráfico en R.
 - [`practica-resuelta.pdf`](practica-resuelta.pdf): procedimiento e interpretación.
 - [`figuras/`](figuras/): gráficos.
-- [`post-linkedin.md`](post-linkedin.md): publicación de presentación del proyecto.
-
-Para ejecutar el código, abre la carpeta del proyecto en RStudio y utiliza `source("analisis.R")`. No se necesitan paquetes adicionales.
 
 > Los datos son de una práctica académica, no de una cartera bancaria real. La prueba supone observaciones independientes y frecuencias esperadas suficientemente grandes; ambas cuestiones deben revisarse al aplicar el método en la práctica.
