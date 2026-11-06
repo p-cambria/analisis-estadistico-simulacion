@@ -21,8 +21,3 @@ El ANOVA dio F = 29.6477 y p = 3.06e-08. La sucursal C tuvo el menor promedio (2
 - [`analisis.R`](analisis.R): script con los datos y los cálculos.
 - [`practica-resuelta.pdf`](practica-resuelta.pdf): análisis breve con interpretación.
 - [`figuras/`](figuras/): gráficos de apoyo.
-- [`post-linkedin.md`](post-linkedin.md): publicación para compartir el proyecto.
-
-## Cómo ejecutarlo
-
-Abre esta carpeta como directorio de trabajo en RStudio y ejecuta `source("analisis.R")`. No necesitas instalar paquetes adicionales. El script guardará los gráficos en `figuras/`.
