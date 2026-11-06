@@ -21,8 +21,3 @@ Encontré una asociación estadísticamente significativa (χ² = 11.2269, p = 0
 - [`analisis.R`](analisis.R): script con los datos y los cálculos.
 - [`practica-resuelta.pdf`](practica-resuelta.pdf): análisis breve con interpretación.
 - [`figuras/`](figuras/): gráficos de apoyo.
-- [`post-linkedin.md`](post-linkedin.md): publicación para compartir el proyecto.
-
-## Cómo ejecutarlo
-
-Abre esta carpeta como directorio de trabajo en RStudio y ejecuta `source("analisis.R")`. No necesitas instalar paquetes adicionales. El script guardará los gráficos en `figuras/`.
