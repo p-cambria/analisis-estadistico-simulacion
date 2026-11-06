@@ -29,7 +29,6 @@ Cada carpeta contiene:
 - **`practica-resuelta.pdf`**: desarrollo breve del problema y conclusiones.
 - **`README.md`**: resumen del análisis, los hallazgos y cómo reproducirlos.
 - **`figuras/`**: gráficos para acompañar los resultados.
-- **`post-linkedin.md`**: texto de la publicación (también disponible en [`publicaciones-linkedin/`](publicaciones-linkedin/)).
 
 ## Cómo usar los proyectos
 
